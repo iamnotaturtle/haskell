@@ -1,2 +1,2 @@
 # haskell
-Learn me some
+Some haskell projects
